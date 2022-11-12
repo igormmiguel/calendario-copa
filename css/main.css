@@ -1,0 +1,18 @@
+.first-section{
+    margin-bottom: 4rem;
+}
+.primeiro_p{
+    background-color: var(--Blue);
+    padding-block: 1.125rem;
+    border-radius: 0.625rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.14688);
+}
+.segundo_p{
+    line-height: 1.3125rem;
+    font-size: 0.6875rem;
+    color: var(--Grayish-Blue);
+    font-weight: 500;
+    padding-inline: 0.875rem;
+    justify-content: center;
+}
